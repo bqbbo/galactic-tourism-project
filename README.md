@@ -1,7 +1,7 @@
 # Galactic Tourism Project - A static website/presentation for a space-related science project.
 
 Written in vanilla HTML, CSS, and JavaScript.
-Can be accessed [here](https://dacoder101.github.io/galactic-tourism-project/).
+Can be accessed [here](https://bqbbo.github.io/galactic-tourism-project/).
 
 ## Background
 
